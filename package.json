@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "element-theme-chalk": "^2.13.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "sass-loader": "^8.0.2"
   }
 }
